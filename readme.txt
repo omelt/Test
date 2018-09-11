@@ -3,3 +3,4 @@ Git is free software.
 chage test
 second change
 third change
+Creating a new branch is quick & simple.
