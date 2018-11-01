@@ -1,5 +1,5 @@
 Git is a version control system.
-Git is free software.
+Git is a free software.
 chage test
 second change
 third change
@@ -12,3 +12,5 @@ test feature
 change
 
 creating a new branch is quick.
+
+
