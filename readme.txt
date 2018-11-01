@@ -8,3 +8,5 @@ add line in feature1
 test feature
 
 change
+
+creating a new branch is quick.
