@@ -6,6 +6,8 @@ third change
 Creating a new branch is quick & simple.
 add line in feature1
 test feature
+add line in feature1
+test feature
 
 change
 
