@@ -44,7 +44,7 @@ public class Main {
         return true;
     }
 
-    public static void main(String[] args) {
+    public  static void main(String[] args) {
 
         int b[] = {57, 68, 59, 52, 72, 28, 96, 33, 24};
 
